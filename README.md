@@ -1,26 +1,23 @@
-# NextJS TailwindCSS Coming Soon Template
+# [Manhood Aura](https://manhoodaura.com/)
 
 This is a simple coming soon template built with [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/). It is a lightweight and responsive template that can be used for various projects that require a "coming soon" page.
 
 ## Demo
-Here's a live demo of the template: **[Live Demo](https://tailwnd-nextjs-comming-soon-tm2g.vercel.app/)**
+Here's a live demo of the template: **[Live Demo]()**
 
 
-<a href="https://www.buymeacoffee.com/sandipbaikare" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<!-- <a href="https://www.buymeacoffee.com/mirzaahtsham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>  -->
 
 ### Screenshot
 
 #### Standard Version
-![Coming Soon Page](https://github.com/baikaresandip/tailwind-nextjs-comming-soon/blob/main/public/coming-soon-standard-template.png "Coming Soon Page")
-
+![Coming Soon Page](https://github.com/mirzaahtsham/tailwind-nextjs-comming-soon/blob/main/public/coming-soon-standard-template.png "Coming Soon Page")
+<!-- 
 #### Version 1
-![Coming Soon Version 1](https://github.com/baikaresandip/tailwind-nextjs-comming-soon/blob/main/public/coming-soon-version-1.png "Coming Soon Version 1")
-
+![Coming Soon Version 1](https://github.com/baikaresandip/tailwind-nextjs-comming-soon/blob/main/public/coming-soon-version-1.png "Coming Soon Version 1") -->
 
 
 ## Getting Started
-
-Clone this repository: `git clone https://github.com/baikaresandip/tailwind-nextjs-comming-soon.git`
 
 Install dependencies: `npm install`
 
@@ -70,7 +67,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## Credits
-This template was built with [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/). Build by [Sandip Baikare](https://github.com/baikaresandip/)
+This template was built with [Next.js](https://nextjs.org/) and [TailwindCSS](https://tailwindcss.com/). Build by [Mirza Ahtsham](https://github.com/mirzaahtsham/)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
